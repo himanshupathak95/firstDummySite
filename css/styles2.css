@@ -1,0 +1,46 @@
+body
+{
+    background-color: #DEFCF9;
+    margin: 0px;
+    text-align:justify;
+    font-family: 'Roboto', sans-serif;
+    color: #40514E;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #11999E;
+    border-width: 5px;
+    width: 10%;
+}
+h1
+{
+    text-transform: uppercase;
+    color: #11999E;
+}
+h3
+{
+    text-transform: uppercase;
+    color: #11999E;
+}
+a
+{
+    text-decoration: none;
+}
+p
+{
+    color: #40514E;
+}
+ul
+{
+    color: #40514E;
+}
+td
+{
+    color: #40514E;
+}
+.collegeNameanch
+{
+    font-family: 'Times New Roman', Times, serif;
+}
