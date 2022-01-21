@@ -1,2 +1,2 @@
 # firstDummySite
-my very first (dummy) website
+very first (dummy) website
